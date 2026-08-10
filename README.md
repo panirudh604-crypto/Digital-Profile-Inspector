@@ -1,4 +1,4 @@
-# Digital-Profile-Inspector
+# Digital Profile Inspector
 
 Digital Profile Inspector is a Python-based console application that creates and analyzes a user's digital profile. It validates username and email formats, evaluates password strength, analyzes bio quality, and generates a final profile summary.
 

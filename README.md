@@ -23,10 +23,10 @@ Concepts Used:
 - Exception Handling.
 - String Manipulation.
 
-How It Works:
+📌 How It Works:
 
 The application uses a menu-driven interface where the user can create a profile and perform different analyses individually. The final Profile Summary brings together the important results from the profile.
 
-Purpose:
+📌 Purpose:
 
 This project was created to practice and combine fundamental Python concepts into a practical console-based application while developing a structured approach to input validation, data processing, and formatted output.
